@@ -66,7 +66,7 @@ I am a B.Tech CSE (AIML) student passionate about building real-world solutions 
 - 🔹 **Fake News Detection (ML)**  
   Built using Python, Pandas & Scikit-learn to classify news as real or fake  
 
-- 🔹 **AIML Project**  
+- 🔹 **Medical Report Analysis**  
   Implemented machine learning concepts for real-world problem solving
 
 ---
