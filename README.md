@@ -14,7 +14,6 @@ I am a B.Tech CSE (AIML) student who loves coding and solving problems. My journ
 
 # 💻 Tech Stack:
 
-## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
