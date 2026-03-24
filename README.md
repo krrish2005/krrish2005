@@ -41,7 +41,7 @@ I am a B.Tech CSE (AIML) student passionate about building real-world solutions 
 
 # 📊 GitHub Stats:
 
-![Krrish's GitHub stats](![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krrish2005&layout=compact&theme=tokyonight))
+(![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krrish2005&layout=compact&theme=tokyonight))
 
 ---
 
