@@ -8,7 +8,7 @@ Greetings! I'm Krrish Malhotra, a passionate computer science student with a str
 
 🚀 Krrish Malhotra 🚀  
 
-I am a B.Tech CSE (AIML) student who loves coding and solving problems. My journey started with C++ and Python, and now I am exploring AI/ML, web development, and real-world projects. I enjoy learning new technologies and building useful applications.  
+I am a B.Tech CSE (AIML) student passionate about building real-world solutions using AI/ML and web technologies. I enjoy solving problems and continuously improving my coding skills.
 
 ---
 
@@ -41,7 +41,7 @@ I am a B.Tech CSE (AIML) student who loves coding and solving problems. My journ
 
 # 📊 GitHub Stats:
 
-![Krrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krrish2005&show_icons=true&theme=tokyonight)
+![Krrish's GitHub stats](![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krrish2005&layout=compact&theme=tokyonight))
 
 ---
 
@@ -55,13 +55,22 @@ I am a B.Tech CSE (AIML) student who loves coding and solving problems. My journ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Krrish-malhotra08)
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/krrish_malhotra/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/krrish2005)
 
 ---
 
 # 📂 Projects:
-- AIML Project  
-- Fake News Detection ML  
+
+- 🔹 **Fake News Detection (ML)**  
+  Built using Python, Pandas & Scikit-learn to classify news as real or fake  
+
+- 🔹 **AIML Project**  
+  Implemented machine learning concepts for real-world problem solving
 
 ---
+## 🎯 Current Focus:
+- Learning DSA  
+- Building AI/ML projects  
+- Preparing for internships  
