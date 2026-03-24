@@ -14,8 +14,8 @@ I am a B.Tech CSE (AIML) student who loves coding and solving problems. My journ
 
 # 💻 Tech Stack:
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+## 💻 Tech Stack:
+
 ![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
@@ -23,13 +23,21 @@ I am a B.Tech CSE (AIML) student who loves coding and solving problems. My journ
 
 ![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
-![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql)
+![LeetCode](https://img.shields.io/badge/leetcode-orange?style=for-the-badge&logo=leetcode)
+![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)
 
-![NumPy](https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow)
+![Streamlit](https://img.shields.io/badge/streamlit-red?style=for-the-badge&logo=streamlit)
+![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
+![Keras](https://img.shields.io/badge/keras-red?style=for-the-badge&logo=keras)
+![Matplotlib](https://img.shields.io/badge/matplotlib-orange?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy)
 
+![Anaconda](https://img.shields.io/badge/anaconda-green?style=for-the-badge&logo=anaconda)
+![Jupyter](https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter)
+
+![Canva](https://img.shields.io/badge/canva-blue?style=for-the-badge&logo=canva)
+![Adobe Photoshop](https://img.shields.io/badge/photoshop-blue?style=for-the-badge&logo=adobephotoshop)
 ---
 
 # 📊 GitHub Stats:
